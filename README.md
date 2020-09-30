@@ -14,3 +14,5 @@
 
 # Essential Google Cloud Infrastructure: Foundation
 https://app.pluralsight.com/library/courses/essential-google-cloud-infrastructure-foundation/table-of-contents
+
+## 1-Working with GCP Cloud Console and Cloud Shell
