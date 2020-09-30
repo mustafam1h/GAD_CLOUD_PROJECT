@@ -10,4 +10,7 @@
 ## 2-Google Cloud Fundamentals: Getting Started with Compute Engine
 ## 1-Google Cloud Fundamentals: Getting Started with Cloud Marketplace
 
+<hr>
 
+# Essential Google Cloud Infrastructure: Foundation
+https://app.pluralsight.com/library/courses/essential-google-cloud-infrastructure-foundation/table-of-contents
