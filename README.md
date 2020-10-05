@@ -17,4 +17,6 @@ https://app.pluralsight.com/library/courses/essential-google-cloud-infrastructur
 
 ## 1-Working with GCP Cloud Console and Cloud Shell
 ## 2-Infrastructure Preview
+## 3-VPC Networking
+
 
