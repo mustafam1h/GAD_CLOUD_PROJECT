@@ -19,6 +19,8 @@ https://app.pluralsight.com/library/courses/essential-google-cloud-infrastructur
 ## 2-Infrastructure Preview
 ## 3-VPC Networking
 ## 4-Implement Private Google Access and Cloud NAT
+## 5-Creating Virtual Machines
+
 
 
 
