@@ -21,6 +21,11 @@ https://app.pluralsight.com/library/courses/essential-google-cloud-infrastructur
 ## 4-Implement Private Google Access and Cloud NAT
 ## 5-Creating Virtual Machines
 ## 6-Working with Virtual Machines
+## 7- Cloud IAM
+## 8-Cloud Storage
+## 9-Implementing Cloud SQL
+
+
 
 
 
